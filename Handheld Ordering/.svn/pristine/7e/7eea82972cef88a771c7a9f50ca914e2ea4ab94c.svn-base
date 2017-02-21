@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\lenovo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\lenovo\Documents\Handheld Ordering\Food\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-975a111bddbce7401dd30b1f6bc46fbe86a8ed5a.jar" />
+    </item>
+    <item
+        jar="C:\Users\lenovo\Documents\Handheld Ordering\Food\app\libs\ksoap2-android-assembly-3.3.0-jar-with-dependencies.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="62681b8212ca52278feafec31775fd0cb096d99a">
+        <dex dex="C:\Users\lenovo\Documents\Handheld Ordering\Food\app\build\intermediates\pre-dexed\debug\ksoap2-android-assembly-3.3.0-jar-with-dependencies-98ce0b2fe25ac1d13db7c4aa9868c43c64d740d0.jar" />
+    </item>
+
+</items>

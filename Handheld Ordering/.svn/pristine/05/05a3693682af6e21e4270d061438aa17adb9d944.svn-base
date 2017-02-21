@@ -1,0 +1,35 @@
+apply plugin: 'com.android.application'
+
+android {
+    signingConfigs {
+        config {
+            keyAlias 'everyware'
+            keyPassword 'everyware2010'
+            storeFile file('C:/Users/lenovo/Documents/everyware/document/android/pos.keystore')
+            storePassword 'everyware2010'
+        }
+    }
+    compileSdkVersion 19
+    buildToolsVersion "21.1.2"
+    defaultConfig {
+        applicationId "com.everyware.handheld"
+        minSdkVersion 14
+        targetSdkVersion 18
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+            zipAlignEnabled true
+            signingConfig signingConfigs.config
+        }
+        debug {
+            debuggable true
+        }
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:19.1.0'
+    compile files('libs/ksoap2-android-assembly-3.3.0-jar-with-dependencies.jar')
+}

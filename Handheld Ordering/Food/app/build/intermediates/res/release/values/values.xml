@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/lenovo/Documents/Handheld%20Ordering/Food/app/src/main/res/values/color.xml -->
+    <eat-comment/>
+    <color name="bg_color_blue">#0A96D4</color>
+    <color name="bg_color_dark_gray">#888888</color>
+    <color name="bg_color_gray">#D8D8D8</color>
+    <color name="black">#000000</color>
+    <color name="highlight_blue">#8ce3ff</color>
+    <color name="light_blue">#D5DFE2</color>
+    <color name="light_red">#7D0000</color>
+    <color name="light_yellow">#D3C154</color>
+    <color name="light_yellow_1">#E6E692</color>
+    <color name="login_error_prompt_red">#FF0000</color>
+    <color name="white">#ffffff</color>
+    <!-- From: file:/C:/Users/lenovo/Documents/Handheld%20Ordering/Food/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/C:/Users/lenovo/Documents/Handheld%20Ordering/Food/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="account_id">account_id</string>
+    <string name="activation_code">activation_code</string>
+    <string name="already_clean">此項已經沽清</string>
+    <string name="already_qicai_no_again_qicai">已起菜項目不能再起菜</string>
+    <string name="alreay_send_not_jiaoqi">已送單項目不能叫起</string>
+    <string name="app_name">餐飲王®員工手提落單</string>
+    <string name="back">返回</string>
+    <string name="back_catgory">返回分類</string>
+    <string name="cancel">取消</string>
+    <string name="cannot_change_table_unsave_item">有未送單項目，未能轉檯</string>
+    <string name="category_id">category_id</string>
+    <string name="change_table">轉檯</string>
+    <string name="clean">沽清</string>
+    <string name="clean_1">限量沽清</string>
+    <string name="commit_order_success">下單成功</string>
+    <string name="confirm">確定</string>
+    <string name="decimal_place">decimal_place</string>
+    <string name="delete">删除</string>
+    <string name="device_name">device_name</string>
+    <string name="enable_cover_count">enable_cover_count</string>
+    <string name="exit_system">您確定退出？</string>
+    <string name="gaima">改碼</string>
+    <string name="gaima_no_jiaoqi">改碼項目不能叫起</string>
+    <string name="gr_access_denied">你沒有足夠權限進行此操作</string>
+    <string name="invalid_activation_code">Activation Code不正確</string>
+    <string name="ip">ip</string>
+    <string name="isClear">是否已經完成清理?</string>
+    <string name="jiaoqi">叫起</string>
+    <string name="loading">正在加載,請稍後……</string>
+    <string name="locked">其他人正在下單,此枱已被鎖定</string>
+    <string formatted="false" name="login_error">Error:%s</string>
+    <string name="logout">登出</string>
+    <string formatted="false" name="money_format">$%s</string>
+    <string name="more_than_number">輪入數量不可多於剩餘數量</string>
+    <string name="network_error">網絡異常,請檢查您的網絡設置！</string>
+    <string name="no">否</string>
+    <string name="no_data">暫無數據</string>
+    <string name="no_jiaoqi_not_qicai">未叫起項目不能起菜</string>
+    <string name="no_send_not_qicai">未送單項目不能起菜</string>
+    <string name="no_set_account_id">没有設置Account ID</string>
+    <string name="no_set_activation_code">没有設置Activation Code</string>
+    <string name="no_set_category_id">没有設置Category ID</string>
+    <string name="no_set_decimal_place">没有設置Decimal Place</string>
+    <string name="no_set_device_name">没有設置Device Name</string>
+    <string name="no_set_ip_address">沒有設置IP地址</string>
+    <string name="no_set_round_method">没有設置Round Method</string>
+    <string name="no_set_shop_id">没有設置Shop ID</string>
+    <string name="operation_over">結束操作</string>
+    <string name="pop_title_conver_count">輸入人數</string>
+    <string name="pop_title_disable_qty">輸入需要取消的數量</string>
+    <string name="pop_title_disable_qty_invalid">輸入的數量無效</string>
+    <string name="pop_title_disable_reason">選擇取消原因</string>
+    <string name="pop_title_input_name">輸入名稱</string>
+    <string name="pop_title_input_price">輸入價錢</string>
+    <string formatted="false" name="price_format">$%s</string>
+    <string name="print_bill">埋單</string>
+    <string name="qicai">起菜</string>
+    <string name="quick_code_show_text_pad">快碼使用文字輸入</string>
+    <string name="quick_code_switch_full_text">按食品名稱搜尋</string>
+    <string name="quick_code_text_pad">quick_code_text_pad</string>
+    <string name="remote_server_error">系統錯誤</string>
+    <string name="result_is_error">300員工認證錯誤</string>
+    <string name="result_is_invalid">500系統錯誤</string>
+    <string name="round_method">round_method</string>
+    <string name="search">搜尋</string>
+    <string name="send_order">送單</string>
+    <string name="sharedpreferences">userinfo</string>
+    <string name="shop_id">shop_id</string>
+    <string name="split">拆檯</string>
+    <string name="split_table_display_method">split_table_display_method</string>
+    <string name="staff_number">員工編號</string>
+    <string name="submitted">食品已下單,請返回主機取消已下單食品</string>
+    <string name="submitted_not_change">已送單項目不能更改數量</string>
+    <string name="system_prompt">系統提示</string>
+    <string name="system_setup_no_complete">系統設置未完成</string>
+    <string formatted="false" name="table_code">%s号台</string>
+    <string name="table_occupied">只可以選擇空置的檯號</string>
+    <string name="timout">連接超時</string>
+    <string name="total">合計</string>
+    <string name="total_price">總金額</string>
+    <string name="unsupport_version">你正在使用的餐飲王版本並不支援這個功能，請聯絡客戶服務部進行升級。謝謝。</string>
+    <string name="yes">是</string>
+    <!-- From: file:/C:/Users/lenovo/Documents/Handheld%20Ordering/Food/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="alter_order_number_layout" parent="fill_wrap">
+        <item name="android:layout_height">60dp</item>
+        <item name="android:orientation">horizontal</item>
+    </style>
+    <style name="alter_order_number_text">
+        <item name="android:layout_width">60dp</item>
+        <item name="android:layout_height">60dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">20dp</item>
+        <item name="android:background">@drawable/btn_keypad_grey</item>
+    </style>
+    <style name="fill">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+    <style name="fill_wrap">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="input_box" parent="fill_wrap">
+        <item name="android:layout_height">40dp</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:paddingLeft">5dp</item>
+        <item name="android:textSize">20dp</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:background">@drawable/shape_input_box</item>
+    </style>
+    <style name="login_button">
+        <item name="android:layout_width">120dp</item>
+        <item name="android:layout_height">40dp</item>
+        <item name="android:text">@string/confirm</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">18dp</item>
+        <item name="android:background">@drawable/btn_login</item>
+    </style>
+    <style name="setting_input_box" parent="input_box">
+        <item name="android:layout_marginTop">5dp</item>
+        <item name="android:inputType">phone</item>
+    </style>
+    <style name="setting_input_box_password" parent="input_box">
+        <item name="android:layout_marginTop">5dp</item>
+        <item name="android:inputType">textPassword</item>
+    </style>
+    <style name="setting_input_box_text" parent="input_box">
+        <item name="android:layout_marginTop">5dp</item>
+        <item name="android:inputType">text</item>
+    </style>
+    <style name="setting_pop_line" parent="fill_wrap">
+        <item name="android:layout_height">1dp</item>
+        <item name="android:background">@color/bg_color_gray</item>
+    </style>
+    <style name="setting_pop_text" parent="setting_text">
+        <item name="android:layout_marginTop">0dp</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:paddingLeft">20dp</item>
+    </style>
+    <style name="setting_text" parent="wrap">
+        <item name="android:layout_marginTop">5dp</item>
+        <item name="android:textSize">20dp</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="wrap">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="wrap_fill">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+</resources>
